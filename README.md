@@ -3,5 +3,5 @@
 - Programmers
 https://school.programmers.co.kr/learn/challenges?order=recent&languages=python3&page=1&levels=3
 
--leetcode.
+- leetcode.
 https://leetcode.com/problemset/all/
